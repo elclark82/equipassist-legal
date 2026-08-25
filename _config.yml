@@ -1,0 +1,9 @@
+title: EquipAssist Legal
+description: Legal documents and policies for EquipAssist
+url: https://legal.equipassist.net
+baseurl: ''
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - scripts
