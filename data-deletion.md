@@ -8,8 +8,8 @@ permalink: /data-deletion.html
 
 **Effective Date:** August 25, 2026
 
-**Last Updated:** August 25, 2026
-**Version:** 2.0
+**Last Updated:** October 8, 2026
+**Version:** 2.1
 
 ## 1. Purpose
 
@@ -31,10 +31,10 @@ You are responsible for saving any information you want to keep before deletion 
 2. Open **Account Settings > Delete Account**.
 3. Review the account-status warnings and deletion information.
 4. Select whether you want a data export.
-5. Enter the requested reason and your current password.
+5. Enter the requested reason and, if your account has a password, your current password.
 6. Confirm the deletion request.
 
-For account security, the request must be made by the authenticated account holder and requires password verification. Rate limits may temporarily block repeated attempts.
+For account security, the request must be made by the authenticated account holder. Password accounts require password verification. Accounts created only through a supported sign-in provider use the authenticated session and the typed destructive confirmation because no EquipAssist password exists. Rate limits may temporarily block repeated attempts.
 
 ### 3.2 When In-App Access Is Unavailable
 

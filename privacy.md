@@ -8,8 +8,8 @@ permalink: /privacy.html
 
 **Effective Date:** August 25, 2026
 
-**Last Updated:** August 25, 2026
-**Version:** 2.0
+**Last Updated:** October 1, 2026
+**Version:** 2.1
 
 ## 1. Who We Are
 
@@ -32,6 +32,7 @@ Depending on how you use the Service, you may provide:
 - Information used to verify account ownership or protect account security
 
 Please do not provide health or other sensitive information that is unnecessary to use the Service.
+EquipAssist does not ask you to identify a diagnosis or health condition as part of equipment listing or search fields.
 
 ### 2.2 Information Collected Automatically
 
